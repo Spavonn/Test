@@ -1,0 +1,28 @@
+body {background-color:mistyrose;
+      font-family: cursive;
+
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #f7e4f6;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #ffffff;
+
+}
